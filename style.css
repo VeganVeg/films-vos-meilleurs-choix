@@ -1,10 +1,10 @@
 .top-picks {
   position: relative;
   padding: 50px;
-  background: #d14e44;
+  background: #c74c37;
 }
 .top-picks__header {
-  border-left: solid 5px #d14237;
+  border-left: solid 5px #c7412a;
   padding-left: 20px;
   color: white;
 }
@@ -33,8 +33,8 @@
   width: 100%;
   padding: 5px 0;
   border: 0;
-  background: #d1665d;
-  color: #37c6d1;
+  background: #c76250;
+  color: #2ab0c7;
   font-size: 10px;
   font-weight: normal;
   font-style: normal;
@@ -42,9 +42,9 @@
   text-transform: uppercase;
 }
 .card .card__btn:hover {
-  background: #d17d77;
+  background: #c7776a;
 }
 
 body {
-  background-color: #d14237;
+  background-color: #c7412a;
 }/*# sourceMappingURL=style.css.map */
